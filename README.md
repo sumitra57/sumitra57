@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumitra Sahoo
 
-<!--
-**sumitra57/sumitra57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner Developer | Learning & Growing Every Day  
+💻 Interested in coding and technology  
+📍 India 🇮🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Currently learning programming and development
+- 💡 Interested in Web Development and Python
+- 🛠️ Exploring Git, GitHub, and VS Code
+- 📚 Beginner, but consistent and motivated
+
+---
+
+## 🧰 Skills (Learning Phase)
+
+- **Languages:** Python, HTML, CSS  
+- **Tools:** Git, GitHub, VS Code  
+- **Currently Learning:**
+  - Git & GitHub workflow
+  - Python basics
+  - Web development fundamentals
+
+---
+
+## 🎯 Goals
+
+- Improve my coding skills daily  
+- Build real-world projects  
+- Create a strong developer portfolio  
+- Contribute to open-source projects on :contentReference[oaicite:0]{index=0}
+
+---
+
+## 📂 Projects
+
+- 🚧 Projects coming soon
+- 📌 Each project will be well documented
+
+---
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/your-username  
+- Email: your-email@example.com  
+
+---
+
+## 🌟 Fun Fact
+
+> Small steps every day lead to big success 🚀
+
+---
+
+⭐ Thanks for visiting my profile!
