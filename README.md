@@ -3,6 +3,14 @@
 </h1>
 
 <h3 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=300&lines=Web+Developer+🚀;Frontend+Learner;Python+Enthusiast" 
+    alt="Typing SVG" 
+  />
+</h3>
+
+
+<h3 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=320&lines=Web+Developer+🚀"
     alt="Typing Animation"
