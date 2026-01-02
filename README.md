@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sumitra Sahoo</h1>
-<h3 align="center">Web Developer 🚀</h3>
+<h1 align="center">
+  Hi 👋, I'm Sumitra Sahoo
+</h1>
+
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=320&lines=Web+Developer+🚀"
+    alt="Typing Animation"
+  />
+</h3>
 
 <p align="center">
   <a href="mailto:sumitrasahoopuja@gmail.com">
