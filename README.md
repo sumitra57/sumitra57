@@ -24,44 +24,6 @@
   
 ---
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="150" alt="Programming">
-</p>
-
-<p align="center">
-  <span style="display:inline-block; margin:12px; text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="45"><br>
-    <b>HTML</b>
-  </span>
-
-  <span style="display:inline-block; margin:12px; text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="45"><br>
-    <b>CSS</b>
-  </span>
-
-  <span style="display:inline-block; margin:12px; text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45"><br>
-    <b>Python</b>
-  </span>
-
-  <span style="display:inline-block; margin:12px; text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="45"><br>
-    <b>Git</b>
-  </span>
-
-  <span style="display:inline-block; margin:12px; text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45"><br>
-    <b>GitHub</b>
-  </span>
-
-  <span style="display:inline-block; margin:12px; text-align:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="45"><br>
-    <b>VS Code</b>
-  </span>
-</p>
-
 
 
 ## 📂 Projects
@@ -86,7 +48,21 @@
   <a href="mailto:sumitrasahoopuja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p><h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="150" alt="Programming">
 </p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="45"><br><b>HTML</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="45"><br><b>CSS</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45"><br><b>Python</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="45"><br><b>Git</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45"><br><b>GitHub</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="45"><br><b>VS Code</b>
+</p>
+
 
 ---
 
