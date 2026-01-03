@@ -2,12 +2,6 @@
   Hi 👋, I'm Sumitra Sahoo
 </h1>
 
-<h3 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=300&lines=Web+Developer+🚀;Frontend+Learner;Python+Enthusiast" 
-    alt="Typing SVG" 
-  />
-
 <p align="center">
   <a href="mailto:sumitrasahoopuja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
