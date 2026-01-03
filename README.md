@@ -35,41 +35,44 @@
   />
 </p>
 
-<!-- ================= Technologies & Tools (Icons with Names) ================= -->
 
-<p align="center">
 
-  <span style="display:inline-block; text-align:center; margin:12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="42" alt="HTML"/><br/>
-    <sub><b>HTML</b></sub>
-  </span>
+ 
+ <!-- ================= Technologies & Tools (ROW WISE) ================= -->
 
-  <span style="display:inline-block; text-align:center; margin:12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="42" alt="CSS"/><br/>
-    <sub><b>CSS</b></sub>
-  </span>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="42" alt="HTML"/><br/>
+      <b>HTML</b>
+    </td>
 
-  <span style="display:inline-block; text-align:center; margin:12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="42" alt="Python"/><br/>
-    <sub><b>Python</b></sub>
-  </span>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="42" alt="CSS"/><br/>
+      <b>CSS</b>
+    </td>
 
-  <span style="display:inline-block; text-align:center; margin:12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="42" alt="Git"/><br/>
-    <sub><b>Git</b></sub>
-  </span>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="42" alt="Python"/><br/>
+      <b>Python</b>
+    </td>
 
-  <span style="display:inline-block; text-align:center; margin:12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="42" alt="GitHub"/><br/>
-    <sub><b>GitHub</b></sub>
-  </span>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="42" alt="Git"/><br/>
+      <b>Git</b>
+    </td>
 
-  <span style="display:inline-block; text-align:center; margin:12px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="42" alt="VS Code"/><br/>
-    <sub><b>VS Code</b></sub>
-  </span>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="42" alt="GitHub"/><br/>
+      <b>GitHub</b>
+    </td>
 
-</p>
+    <td align="center" width="110">
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="42" alt="VS Code"/><br/>
+      <b>VS Code</b>
+    </td>
+  </tr>
+</table>
 
 <!-- ================= End ================= -->
 
