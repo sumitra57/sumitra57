@@ -27,15 +27,26 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <!-- Main Programming Symbol -->
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" 
+    alt="Programming Icon" 
+    width="150"
+  />
+</p>
+
+<!-- All Languages & Tools as Symbols -->
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" alt="HTML"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" alt="CSS"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" alt="Python"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="40" alt="Git"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40" alt="VS Code"/>
 </p>
 
 ---
+
 
 ## 📂 Projects
 
