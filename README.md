@@ -38,44 +38,39 @@
 
 
  
- <!-- ================= Technologies & Tools (ROW WISE – Clean & Professional) ================= -->
-
-<table align="center">
+ <table align="center">
   <tr>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" alt="HTML"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="45"/><br/>
       <b>HTML</b>
     </td>
 
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" alt="CSS"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="45"/><br/>
       <b>CSS</b>
     </td>
 
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" alt="Python"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45"/><br/>
       <b>Python</b>
     </td>
 
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" alt="Git"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png" width="45"/><br/>
       <b>Git</b>
     </td>
 
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44" alt="GitHub"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45"/><br/>
       <b>GitHub</b>
     </td>
 
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="44" alt="VS Code"/><br/>
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="45"/><br/>
       <b>VS Code</b>
     </td>
   </tr>
 </table>
-
-<!-- ================= End ================= -->
-
 
 
 
